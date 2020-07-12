@@ -1,6 +1,6 @@
 ### Hi 👋, I am Michalis Zampetakis, a SW engineeer and a fun of Embedded Systems, IoT & LEGOs! 
 
-In my [repositories](https://github.com/mzampetakis?tab=repositories) you can find a few interesting things I get up with!
+#### In my [repositories](https://github.com/mzampetakis?tab=repositories) you can find a few interesting things I get up with!
 
 * You can reach me at [Twitter](https://twitter.com/mzampetakis) for more regular updates
 * You can find more about my career at [LinkedIn](https://www.linkedin.com/in/mzampetakis/)
