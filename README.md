@@ -1,5 +1,5 @@
 ## Hi 👋, I am Michalis Zampetakis.
-## A SW engineer and sometimes Full stack Developer.
+### A SW engineer and sometimes Full stack Developer.
 In my free time I enjoy working with small SW projects, IoT.  
 I also love bicycling 🚲 and LEGOs 🏗!  
 In my [repositories](https://github.com/mzampetakis?tab=repositories) you can find a few interesting things I get up with!
