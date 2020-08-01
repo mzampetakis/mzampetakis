@@ -1,5 +1,6 @@
 ## Hi 👋, I am Michalis Zampetakis.
 ### SW engineer currently working at [Enartia](https://enartia.com)
+Love to do challenging stuff that need critica thinkng!
 In my free time I enjoy working with small SW projects, embedded systems & reading.  
 I also love bicycling 🚲 and LEGOs!  
 In my [repositories](https://github.com/mzampetakis?tab=repositories) you can find a few interesting things I get up with!
