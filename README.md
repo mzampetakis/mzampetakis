@@ -4,7 +4,7 @@ Love to do challenging stuff that need critica thinkng!
 In my free time I enjoy working with small SW projects, embedded systems & reading.  
 I also love bicycling 🚲 and LEGOs!  
 In my [repositories](https://github.com/mzampetakis?tab=repositories) you can find a few interesting things I get up with
-while in my [personnal website](https://mzampetakis.com) you can find more info about me and some posts I have recently started to write!
+while in my [personal website](https://mzampetakis.com) you can find more info about me and some posts I have recently started to write!
 
 <hr>
 <p align="center">
