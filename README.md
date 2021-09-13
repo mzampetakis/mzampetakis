@@ -15,3 +15,13 @@ while in my [personal website](https://mzampetakis.com) you can find more info a
     <a href="https://mzampetakis.com" alt="My site"><img src="https://raw.githubusercontent.com/mzampetakis/mzampetakis/master/assets/external-link-line.svg" style="margin-left:10px"></a>
   </p>
 </p>
+
+<hr>
+
+<p>
+  Recent blog posts:<br>
+  &bull; <a href="https://mzampetakis.com/posts/Testing-the-Tests/">Testing the Tests</a><br>
+  &bull; <a href="https://mzampetakis.com/posts/Exec-Command/">Exec.Command</a><br>
+  &bull; <a href="https://mzampetakis.com/posts/Deep-Dive-in-Go-Channels/">Deep Dive in Go Channels</a><br>
+  &bull; <a href="https://mzampetakis.com/posts/Testing-When-Time-Matters/">Testing When Time Matters</a><br>
+</p>
