@@ -19,7 +19,7 @@ while in my [personal website](https://mzampetakis.com) you can find more info a
 <hr>
 
 <p>
-  Recent blog posts:<br>
+  <b>Recent blog posts:</b><br>
   &bull; <a href="https://mzampetakis.com/posts/Testing-the-Tests/">Testing the Tests</a><br>
   &bull; <a href="https://mzampetakis.com/posts/Exec-Command/">Exec.Command</a><br>
   &bull; <a href="https://mzampetakis.com/posts/Deep-Dive-in-Go-Channels/">Deep Dive in Go Channels</a><br>
