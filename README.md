@@ -2,7 +2,7 @@
 ### SW engineer currently working at [Sunlight.io](https://www.sunlight.io/)
 Love to do challenging stuff that needs critical thinkng!
 In my free time I enjoy working with small SW projects, embedded systems & reading.  
-I also love bicycling 🚲 and LEGOs!  
+I also love cycling 🚲 and LEGOs!  
 In my [repositories](https://github.com/mzampetakis?tab=repositories) you can find a few interesting things I get up with
 while in my [personal website](https://mzampetakis.com) you can find more info about me and some posts I have recently started to write!
 
